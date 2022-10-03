@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 
 <div  align="center">
+<!--   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/ced460c44fc5e63567705bfefec57c0c.gif"/> -->
   <br><img height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/ced460c44fc5e63567705bfefec57c0c.gif"></br>
   <a href = "mailto:aliciaengcomp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/al%C3%ADcia-maia-088aa123a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -38,8 +39,8 @@ Here are some ideas to get you started:
   <img align="center" alt="Maia-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" width='40' align="center" />
   <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" width='40' align="center" />
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg"   height="30" width='40' align="center" />
   <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="30" width='40' align="center" />
+  <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg"   height="30" width='40' align="center" />
   </br>
 </div>
   
