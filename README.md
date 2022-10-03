@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Oiii eu sou a Alícia Maia, Desenvolvedora Front-End e Estudande de Engenharia de Computação.
+<div>
+  <h1> 😉Oiii, eu sou Alícia Maia! </h1><br>
+  <h2> Neste repositório estão meus projetos pessoais feitos com o intuito de desenvolver minhas habilidades com desenvolvimento web.</h2>
+</div>
 
 
 
