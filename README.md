@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div>
   <h1> 😉Oiii, eu sou Alícia Maia! </h1><br>
-  <h2> Neste repositório estão meus projetos pessoais feitos com o intuito de desenvolver minhas habilidades com desenvolvimento Mobile.</h2>
+  <h2> Neste repositório estão meus projetos pessoais feitos com o intuito de desenvolver minhas habilidades com desenvolvimento Web e Mobile.</h2>
 </div>
 
 
