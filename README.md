@@ -23,7 +23,7 @@
 
 Sou **Engenheira de Computação** e atualmente pós-graduanda em **Automação de Testes de Software (PGATS)** pela Faculdade VINCIT. Minha abordagem foca em transformar a qualidade em uma cultura estratégica para o desenvolvimento de produtos robustos.
 
-* 🎯 **Atuação Atual:** Atuo como QA Engineer na **Mojo Code**, sendo responsável por todo o ciclo de qualidade, desde o planejamento e testes manuais até a implementação de automação e análise de métricas de desempenho.
+* 🎯 **Atuação Atual:** Atuo como QA Engineer - Freelancer na **Mojo Code**, sendo responsável por todo o ciclo de qualidade, desde o planejamento e testes manuais até a implementação de automação e análise de métricas de desempenho.
 * ⚙️ **Stack e Foco:** Especialista em testes End-to-End e de API com **Cypress**, **Playwright**, **K6** e **Postman**. Possuo sólida compreensão de arquiteturas modernas em **React**, **Next.js** e **TypeScript**.
 * 🌱 **Comunidade e Educação:** Tenho um forte compromisso com o compartilhamento de conhecimento, tendo atuado como **tutora de informática básica** no Programa de Tutoria Discente (PTD) Castanhal e como bolsista no projeto **Meninas Pai D’Éguas**, ensinando robótica para mulheres.
 
@@ -54,10 +54,10 @@ Sou **Engenheira de Computação** e atualmente pós-graduanda em **Automação 
 
 [<img align="left" height="92px" width="92px" alt="Mojo Code" src="./fundo-preto.svg"/>](#)
 
-*QA Engineer* \
+*QA Engineer - Freelancer* \
 **Mojo Code** \
 Liderança técnica dos processos de qualidade, planejamento estratégico de testes e implementação de automação de alto impacto. \
-Maio 2026 - Presente
+Abr 2026 - Presente
 
 <br clear="left"/>
 <br>
@@ -67,7 +67,7 @@ Maio 2026 - Presente
 *QA Lead* \
 **Castanhal On** \
 Liderança da estratégia de qualidade e automação da plataforma. Execução de testes manuais e automatizados com foco em estabilidade. \
-Jan 2026 - Abr 2026
+Nov 2025 - Abr 2026
 
 <br clear="left"/>
 <br>
@@ -78,7 +78,7 @@ Jan 2026 - Abr 2026
 [*LinkJr*](https://linkjr.com.br/) • Empresa Júnior \
 Gestão executiva de equipes e liderança de projetos de tecnologia. \
 Languages & Technologies: `Cypress`, `React`, `Next.js`, `TypeScript` \
-Ago 2024 - Presente
+Ago 2024 - Abr 2025
 
 <br clear="left"/>
 <br>
