@@ -121,5 +121,5 @@ Capacitação tecnológica e fomento ao empoderamento feminino em áreas de STEM
 <br />
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ali-Maia/Ali-Maia/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Ali-Maia/Ali-Maia/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
