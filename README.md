@@ -113,9 +113,13 @@ Capacitação tecnológica e fomento ao empoderamento feminino em áreas de STEM
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ali-Maia&show_icons=true&theme=tokyonight&hide_title=true&v=4" alt="Estatísticas do GitHub" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Maia&layout=compact&theme=tokyonight&v=4" alt="Top Linguagens" />
+</div> -->
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-Maia&theme=tokyonight&hide_border=true&stroke=0000&background=1a1b26&ring=C0CAF5&fire=FF9E64&currStreakNum=7AA2F7&currStreakLabel=7AA2F7&sideNums=C0CAF5&sideLabels=C0CAF5&dates=565f89" alt="GitHub Streak" />
 </div>
 
 <br />
