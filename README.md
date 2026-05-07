@@ -114,12 +114,12 @@ Capacitação tecnológica e fomento ao empoderamento feminino em áreas de STEM
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Ali-Maia&show_icons=true&theme=tokyonight&count_private=true&hide_title=true&v=1" alt="Estatísticas do GitHub" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Maia&layout=compact&theme=tokyonight&v=1" alt="Top Linguagens" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Ali-Maia&show_icons=true&theme=tokyonight&hide_title=true&v=3" alt="Estatísticas do GitHub" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Maia&layout=compact&theme=tokyonight&v=3" alt="Top Linguagens" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ali-Maia/Ali-Maia/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/Ali-Maia/Ali-Maia/blob/output/github-contribution-grid-snake.svg?raw=true" alt="Snake animation" />
 </div>
