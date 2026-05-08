@@ -83,20 +83,22 @@ Ago 2024 - Abr 2025
 <br clear="left"/>
 <br>
 
-[<img align="left" height="92px" width="92px" alt="PTD Castanhal" src="https://media.licdn.com/dms/image/v2/D560BAQGOkay6r5AqEg/company-logo_200_200/company-logo_200_200/0/1701285871175?e=1779926400&v=beta&t=74jNLV4QVY6unuXhw6QJLoFbvjbWTY-EAAVsjVcCsTs"/>](#)
-
-*Tutora de Informática* \
-**Programa de Tutoria Discente (PTD) Castanhal** \
-Ensino de conceitos fundamentais de informática, auxiliando no desenvolvimento técnico de estudantes da comunidade.
-
-<br clear="left"/>
-<br>
-
 [<img align="left" height="92px" width="92px" alt="Meninas Pai D'Éguas" src="https://instagram.fbel6-1.fna.fbcdn.net/v/t51.2885-19/347073645_787686169540699_1921961458025497400_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fbel6-1.fna.fbcdn.net&_nc_cat=107&_nc_oc=Q6cZ2gE_PNlr3nFk0OvPyfZf2Kbl7hjm-373s_0jhyMAcW2C6vZF4GmzkvjxwG5I0mRvzcI&_nc_ohc=iqrgVjqwEzQQ7kNvwEkLd8m&_nc_gid=ODrX4j4f2S3dR4Sg69gb2A&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_Af4u-5onEkxjE_TDFMGi8PYjPeFIWtW4Cs1V67MXPsvIlQ&oe=6A018307&_nc_sid=8b3546"/>](#)
 
 *Bolsista / Instrutora de Robótica* \
 **Projeto Meninas Pai D’Éguas** \
-Capacitação tecnológica e fomento ao empoderamento feminino em áreas de STEM através do ensino de robótica.
+Capacitação tecnológica e fomento ao empoderamento feminino em áreas de STEM através do ensino de robótica. \
+Ago 2024 - Set 2025
+
+<br clear="left"/>
+<br>
+
+[<img align="left" height="92px" width="92px" alt="PTD Castanhal" src="https://media.licdn.com/dms/image/v2/D560BAQGOkay6r5AqEg/company-logo_200_200/company-logo_200_200/0/1701285871175?e=1779926400&v=beta&t=74jNLV4QVY6unuXhw6QJLoFbvjbWTY-EAAVsjVcCsTs"/>](#)
+
+*Tutora de Informática* \
+**Programa de Tutoria Discente (PTD) Castanhal** \
+Ensino de conceitos fundamentais de informática, auxiliando no desenvolvimento técnico de estudantes da comunidade. \
+Ago 2023 - Jul 2024
 
 <br clear="left"/>
 
@@ -107,7 +109,6 @@ Capacitação tecnológica e fomento ao empoderamento feminino em áreas de STEM
 * **FAST em Engenharia de Qualidade** | *César School*
 * **Bootcamp de Quality Assurance** | *Atlântico Avanti & SOFTEX*
 * **Mentoria em Testes de Software** | *Júlio de Lima*
-* **Certificação em Scrum**
 
 ---
 
