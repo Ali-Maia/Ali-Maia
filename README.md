@@ -76,7 +76,7 @@ Nov 2025 - Abr 2026
 [*LinkJr*](https://linkjr.com.br/) • Empresa Júnior \
 Gestão executiva de equipes e liderança de projetos de tecnologia. \
 Languages & Technologies: `Cypress`, `React`, `Next.js`, `TypeScript` \
-Ago 2024 - Abr 2025
+Ago 2024 - Abr 2026
 
 <br clear="left"/>
 <br>
